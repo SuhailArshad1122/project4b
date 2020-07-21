@@ -30,7 +30,7 @@ function App() {
   return (
     <div>
       <div className='target' ref={ref}>
-        <img src='./PakFlag.png' alt="PakFlag" />;
+        <img src='./PakFlag.png' alt='PakFlag' />;
         <p>The playstae is : {playState} </p>
       </div>
     </div>
