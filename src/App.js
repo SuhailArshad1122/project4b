@@ -31,6 +31,7 @@ function App() {
     <div>
       <div className='target' ref={ref}>
         <img src='./PakFlag.png'/>
+        {playstate}
       </div>
     </div>
   );
